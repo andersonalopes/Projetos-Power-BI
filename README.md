@@ -1,12 +1,13 @@
 # Projetos-Power-BI
 
-Repositórios de Projetos Power BI (Dashboard)
+💹 Repositórios de Projetos Power BI (Dashboard)
 
 ## Olá, Eu sou Anderson Assis Lopes
 🎓 Sou Formado em Bacharel em Sistemas de Informação.</br>
 💹 Estudo Power BI desde 2019.</br>
 📺 Experiências: Desenvolvimento Web desde 2015.
 
+## Histórico
 <div>
   <a href="https://github.com/andersonalopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonalopes&layout=compact&langs_count=16&theme=dracula"/>
@@ -20,6 +21,7 @@ Repositórios de Projetos Power BI (Dashboard)
 </div>
 <br>
 
+## Experiência
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/andersonaloficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
