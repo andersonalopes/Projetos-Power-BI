@@ -11,8 +11,8 @@
 💹 Power BI Project Repositories (Dashboard)
 
 ## Hello, I'm Anderson Assis Lopes
-🎓 I have a Bachelor's degree in Information Systems.
-💹 I've been studying Power BI since 2019.
+🎓 I have a Bachelor's degree in Information Systems.</br>
+💹 I've been studying Power BI since 2019.</br>
 📺 Experience: Web Development since 2015.
 
 ## Histórico (History)
@@ -21,7 +21,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonalopes&layout=compact&langs_count=16&theme=dracula"/>
   </div>
     
-## Experiência (Professional Experience)
+## Experiência Profissional (Professional Experience)
 <div style="display: inline_block">
   <img align="center" alt="Anderson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Anderson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
